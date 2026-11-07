@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Apichatpong Weerasethakul Experimental Workshop</title>
+  <desc id="desc">Typographic preview cover for an upcoming workshop in March 2027.</desc>
+  <rect width="1600" height="1000" fill="#151612"/>
+  <circle cx="1200" cy="270" r="185" fill="none" stroke="#c7d0af" stroke-width="1.5" opacity=".65"/>
+  <circle cx="1200" cy="270" r="125" fill="#b8c99a" opacity=".08"/>
+  <path d="M-100 820C250 570 510 910 820 690s520-220 920 10" fill="none" stroke="#d9d8cc" stroke-width="2" opacity=".3"/>
+  <path d="M-100 865C270 615 530 955 850 735s550-215 930 25" fill="none" stroke="#91a178" stroke-width="1" opacity=".38"/>
+  <g fill="#f0efe8" font-family="Arial, Helvetica, sans-serif">
+    <text x="105" y="120" font-size="22" letter-spacing="6">UPCOMING / 2027.03</text>
+    <text x="105" y="350" font-size="76" font-weight="500">APICHATPONG</text>
+    <text x="105" y="442" font-size="76" font-weight="500">WEERASETHAKUL</text>
+    <text x="105" y="550" font-size="34" letter-spacing="4" fill="#c7d0af">EXPERIMENTAL WORKSHOP</text>
+    <text x="105" y="885" font-size="19" letter-spacing="3" fill="#a6a79f">MEMORY / DREAM / TIME / MOVING IMAGE</text>
+  </g>
+  <text x="1490" y="910" text-anchor="end" fill="#f0efe8" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="4">TOKYO</text>
+</svg>
